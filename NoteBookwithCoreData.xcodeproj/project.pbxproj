@@ -14,6 +14,7 @@
 		0BF6D24B26C2E127009EC27A /* NoteBookwithCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0BF6D24926C2E127009EC27A /* NoteBookwithCoreData.xcdatamodeld */; };
 		0BF6D24D26C2E129009EC27A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BF6D24C26C2E129009EC27A /* Assets.xcassets */; };
 		0BF6D25026C2E129009EC27A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BF6D24E26C2E129009EC27A /* LaunchScreen.storyboard */; };
+		0BF6D25826C2E3AA009EC27A /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BF6D25726C2E3AA009EC27A /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0BF6D24C26C2E129009EC27A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0BF6D24F26C2E129009EC27A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0BF6D25126C2E129009EC27A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0BF6D25726C2E3AA009EC27A /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				0BF6D24026C2E127009EC27A /* AppDelegate.swift */,
 				0BF6D24226C2E127009EC27A /* SceneDelegate.swift */,
 				0BF6D24426C2E127009EC27A /* ViewController.swift */,
+				0BF6D25726C2E3AA009EC27A /* DetailsVC.swift */,
 				0BF6D24626C2E127009EC27A /* Main.storyboard */,
 				0BF6D24C26C2E129009EC27A /* Assets.xcassets */,
 				0BF6D24E26C2E129009EC27A /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				0BF6D24126C2E127009EC27A /* AppDelegate.swift in Sources */,
 				0BF6D24326C2E127009EC27A /* SceneDelegate.swift in Sources */,
 				0BF6D24B26C2E127009EC27A /* NoteBookwithCoreData.xcdatamodeld in Sources */,
+				0BF6D25826C2E3AA009EC27A /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
